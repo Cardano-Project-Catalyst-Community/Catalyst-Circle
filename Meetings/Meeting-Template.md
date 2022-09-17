@@ -1,5 +1,7 @@
 # Meeting Template
 
+*Please refrain from sharing links to Google Docs as sharing permissions will affect the communities ability to review*
+
 ## Catalyst Circle Meeting #13
 
 [Watch The Recording](https://www.youtube.com/watch?v=zdkakn8KynM)
@@ -53,4 +55,4 @@ Mediators:
 
 Whilst it is preferrable to report directly into github with markdown as shown above, it maybe easier to record meeting minutes into a doc or text file and then copy relevant information over post-meeting
 
-*Please refrain from sharing links to Google Docs as sharing permissions will affect the communities ability to review*
+
