@@ -12,9 +12,11 @@ Works carried out by Circle representatives should include appropriate links to 
 |------------|-------------------|---------------|------------------------------|
 |TownHalls   |Zoom recording/text|per participant|Include in your weekly report |
 |Discord Call|Minuted / Recorded |1-2 / Month    |Include in your weekly report |
-|Discord Thread|Shareable Link |Weekly|------------------------------|
-|------------|-------------------|---------------|------------------------------|
-|------------|-------------------|---------------|------------------------------|
-|------------|-------------------|---------------|------------------------------|
-|------------|-------------------|---------------|------------------------------|
+|Discord Thread|Shareable Link |Weekly|Pertinent Topics need to be able to be revisited|
+|Twitter Spaces|Recording|1-2 / month?|Recording logged, key takeaways in report|
+|Office-hours|Minutes / Recording|Bi-Weekly Slots|Minutes logged / Key Takeaways|
+|Prioritised Problems|Written|Weekly|Presented at CC Meeting / TH & Key Takeaways logged|
+|Working with Sub-circles|Links/Summaries/Reports|Weekly|Include in your reporting|
+|Office Hours|Written|Weekly|Include in your reporting|
 |ProofofWork |    Written       -|    Monthly    |     Submit Monthly Report    |
+|1:1 Meetings|Summarised / Chatham House|As relevant|Include in weekly report|
