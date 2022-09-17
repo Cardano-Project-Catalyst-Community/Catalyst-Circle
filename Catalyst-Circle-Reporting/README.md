@@ -12,7 +12,7 @@ Works carried out by Circle representatives should include appropriate links to 
 |------------|-------------------|---------------|------------------------------|
 |TownHalls   |Zoom recording/text|per participant|Include in your weekly report |
 |Discord Call|Minuted / Recorded |1-2 / Month    |Include in your weekly report |
-|------------|-------------------|---------------|------------------------------|
+|Discord Thread|Shareable Link |Weekly|------------------------------|
 |------------|-------------------|---------------|------------------------------|
 |------------|-------------------|---------------|------------------------------|
 |------------|-------------------|---------------|------------------------------|
