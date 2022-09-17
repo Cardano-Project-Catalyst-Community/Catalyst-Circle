@@ -11,7 +11,7 @@ Works carried out by Circle representatives should include appropriate links to 
 |  Activity  |How Is It Recorded?| Frequency     |Outcome / Evidence of delivery|
 |------------|-------------------|---------------|------------------------------|
 |TownHalls   |Zoom recording/text|per participant|Include in your weekly report |
-|Discord Call|Minuted / Recorded |1-2 / Month    |------------------------------|
+|Discord Call|Minuted / Recorded |1-2 / Month    |Include in your weekly report |
 |------------|-------------------|---------------|------------------------------|
 |------------|-------------------|---------------|------------------------------|
 |------------|-------------------|---------------|------------------------------|
