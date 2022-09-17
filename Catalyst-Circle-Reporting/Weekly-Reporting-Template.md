@@ -1,7 +1,9 @@
 # CC Rep Weekly Reporting Template
 
 Name: 
+
 Week Ending: 
+
 Approx. Working Hours: 
 
 ## Target Actions
