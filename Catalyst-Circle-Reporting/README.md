@@ -6,6 +6,6 @@ You can upload a text file or copy/paste text from another eitor if you would li
 
 Works carried out by Circle representatives should include appropriate links to evidence of their efforts where appropriate (please see the table below for examples)
 
-[Template]
+[Template](https://github.com/Cardano-Project-Catalyst-Community/Catalyst-Circle/blob/ee71b86fd5b36331eed95e0aa5bb4d3a1b684896/Catalyst-Circle-Reporting/Weekly-Reporting-Template.md)
 
 [Insert Table from doc]
