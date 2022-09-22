@@ -32,14 +32,14 @@ body:
       value: "***"
 
 # Target actions
-- type: input
+  - type: input
     id: targets
     attributes:
       label: Please describe your targets for this week
     validations:
       required: true	
 # Links to works
-- type: input
+  - type: input
     id: links
     attributes:
       label: List links here
@@ -48,7 +48,7 @@ body:
       required: false	
       
 # Works completed  
-- type: input
+ - type: input
     id: workdone
     attributes:
       label: List works here
@@ -57,7 +57,7 @@ body:
       required: false    
 
 ## Work rating
-- type: dropdown
+  - type: dropdown
     id: rating
     attributes:
       label: 
