@@ -60,7 +60,7 @@ body:
   - type: dropdown
     id: rating
     attributes:
-      label: 
+      label: workrate 
       description: Select team member to review your constributions
       options:
         - 1
