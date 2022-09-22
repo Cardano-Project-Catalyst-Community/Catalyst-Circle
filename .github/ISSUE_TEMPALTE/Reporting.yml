@@ -1,0 +1,78 @@
+name: Circle Reporting v.001
+description: A survey to asses contribution by individuals to the Circle
+title: " <YOUR_NAME> <WEEK> CC Rep Weekly Reporting Template"
+labels: [CC Report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Report. Please input your name and the calendar week in the title and proceed with the body.
+
+# Overview
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+    validations:
+      required: true
+  - type: input
+    id: weekending
+    attributes:
+      label: Week Ending:
+    validations:
+      required: true      
+  - type: input
+    id: hours-worked
+    attributes:
+      label: Hours Worked (This Month)
+    validations:
+      required: true	
+  - type: markdown
+    attributes:
+      value: "***"
+
+# Target actions
+- type: input
+    id: targets
+    attributes:
+      label: Please describe your targets for this week
+    validations:
+      required: true	
+# Links to works
+- type: input
+    id: links
+    attributes:
+      label: List links here
+      description: Please share links to your work
+    validations:
+      required: false	
+      
+# Works completed  
+- type: input
+    id: workdone
+    attributes:
+      label: List works here
+      description: Please describe the works completed and describe the impact they have on your goals and the community 
+    validations:
+      required: false    
+
+## Work rating
+- type: dropdown
+    id: rating
+    attributes:
+      label: 
+      description: Select team member to review your constributions
+      options:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9 
+        - 10
+    validations:
+      required: false
+ 
