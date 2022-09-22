@@ -7,3 +7,4 @@
   * [CC Rep Weekly Reporting Template](Catalyst-Circle-Reporting/Weekly-Reporting-Template.md)
 * [Meetings](meetings/README.md)
   * [Meeting Template](Meetings/Meeting-Template.md)
+* [Catalyst Circle - CODE OF CONDUCT](catalyst-circle-code-of-conduct.md)
