@@ -22,6 +22,9 @@ We require some information about the nominee's Ideascale account as well as the
 
 https://cardano.ideascale.com/ Handle* : 
 
+Catalyst ID : 
+[please see this link to find your CAT_ID](https://dagwelldev.com/cat_id/)
+
 Twitter Handle* : 
 
 Telegram Handle* : 
