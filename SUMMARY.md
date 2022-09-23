@@ -8,3 +8,7 @@
   * [Meeting Template](Meetings/Meeting-Template.md)
 * [Catalyst Circle - CODE OF CONDUCT](catalyst-circle-code-of-conduct.md)
 * [Nominee Information Form](<README (1).md>)
+
+## CCv4 Nominations
+
+* [Nomination Template](ccv4-nominations/nomination-template.md)
