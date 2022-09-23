@@ -1,9 +1,5 @@
 Dear Prospective Representative for the Catalyst Circle version 4, 
 
-Note*
-Speak generally about Communities, groups and individuals rather then only communities
-
-
 First off, thank you for your interest in participating in the Catalyst Circle. As we enter our fourth iteration, we continue the pursuit of bringing true value to the Cardano Community by working together, sharing various community perspectives, and identifying necessary practices and procedures for governance. 
 
 Second, whether you are new to Cardano, a long time participant, or somewhere in between, we encourage you to get informed on what has happened to date. For further details on the origins of the Catalyst Circle you can check out this blog from IOHK here. You may also wish to deep dive into recent Circle meetings from versions one to three, which you can find here.
@@ -16,7 +12,7 @@ The Circle exists to fulfill the following goals:
 
 - Facilitate communication, coordination and collaboration between the various Cardano communities that are represented, and to the extent possible those communities that are not represented.
 - Interact and Coordinate different  Sub-Circles so that the circle is responsive to the whole community and can build on the strengths of different communities .
-- Communicate if, and when, there is a violation of the community code of conduct
+- Communicate when there is a violation of the community code of conduct
 - Suggest improvements on plans and processes that shape Project Catalyst.
 - Define the election process for any following Circle & sub circle representatives and/or participants
 
@@ -30,7 +26,7 @@ Each member of the Circle should:
 
 In addition, the following criteria outline the minimum criteria that must be met by interested individuals in order to be eligible to be a Circle representative:
 
-- Regularly attend the 2 hour Catalyst Circle meeting  every two weeks and to the extent possible, participate in the bi-weekly working group meetings to address specific issues.
+- Regularly attend the 2 hour Catalyst Circle meeting every two weeks and to the extent possible, participate in the bi-weekly working group meetings to address specific issues.
 - Work with your community, sub circle, and other Circle reps to maintain an agile backlog list to track issues between meetings
 - Provide input and comment on Circle agenda issues ahead of time
 - Maintain awareness of the interests and concerns of your communities
@@ -42,14 +38,13 @@ At the same time, there are specific activities that a Catalyst Circle represent
 
 To better understand the behaviours which are deemed both appropriate and inappropriate, the Community through CCv3 has begun developing a Code of Conduct for Circle Representatives. While this document is still underdevelopment, and likely will be finalized under the tenure of CCv4, it is important that all Circle representatives understand and conform to this code. You can find the most recent version of the Code of Conduct [here](. 
 
-Interested to join the Circle ?
+Interested to join the Circle?
 
 Submit your nomination [ INSERT LINK ] and engage your community to support you at the Catalyst Circle election.
 
 
 Finalized document to be posted
-Just fucking everywhere ( XD ), but preciesily 
-From IOG Danny or Kriss as IOG Blogpost
-At Dannies weekly mailchimp
+on Discord, telegram, Reddit,twitter
+in Dannies weekly mailchimp
 From the CF at the Cardan Forum
 
