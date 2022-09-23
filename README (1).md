@@ -36,7 +36,7 @@ In addition, the following criteria outline the minimum criteria that must be me
 
 At the same time, there are specific activities that a Catalyst Circle representative must NOT do particularly as they risk or threaten the success of the Circle, any of its representatives, or the communities they represent. 
 
-To better understand the behaviours which are deemed both appropriate and inappropriate, the Community through CCv3 has begun developing a Code of Conduct for Circle Representatives. While this document is still underdevelopment, and likely will be finalized under the tenure of CCv4, it is important that all Circle representatives understand and conform to this code. You can find the most recent version of the Code of Conduct [here](. 
+To better understand the behaviours which are deemed both appropriate and inappropriate, the Community through CCv3 has begun developing a Code of Conduct for Circle Representatives. While this document is still underdevelopment, and likely will be finalized under the tenure of CCv4, it is important that all Circle representatives understand and conform to this code. You can find the most recent version of the Code of Conduct [[here](https://github.com/Cardano-Project-Catalyst-Community/Catalyst-Circle/blob/main/catalyst-circle-code-of-conduct.md)]
 
 Interested to join the Circle?
 
