@@ -53,12 +53,19 @@ Mediators:
     + Who, What, Where, Why, How
 - What is the updated timeline and how can we help spread the message
     + We need to confirm DripDropz timeline (get an update from the team) so we can share accurate information
-- How will we manage the 
+- How will we manage the onboarding for new circle CCV4
 - Emurgo Academy call
     + Here is [the video Quasar mentioned](https://youtube.com/clip/Ugkx62JvJ5Jg3utASI_sGTBFpn2TQKXBHMC9)
 - What will we do about the 15 people?
     + Are we just voting in 5 and allowing people to pick their own team?
     + Are we taking the top people from voting and passing down the next 10 to fill the supporting roles?
+    + Suggesting pairing people up with complimentary skills
+    + Is allowing people to pick their own team that much of an issue if we are doing open and transparent reporting for accountability?
+    + Steve suggests we look at how the initial sub-circle was put together by Mercy - bringing people in who are serious and want to contribute - the wider variety of people the better
+    + Many people have chimed in on this [here is an example](https://twitter.com/Jane14457995/status/1585490819506642946?s=20&t=f2olSdFp0KAw1zXmMn2ciQ)
+    + There are a lot of issues with silos as well as the birds eye view.
+    + What has it been like to work with the problems and address community criticism
+    + It was pretty seamless for the people who remained, it was more tough for the people who stepped up to replace the missing seats
 - Continuing Townhalls whilst IOG are stepping back
     + Rhys might need to step up, also Cardano Pete, and maybe someone from America
     + We will try to organise smaller more intimate groups of candidates to come on and have more of a panel discussion to get people in and discuss Catalyst and their roles
