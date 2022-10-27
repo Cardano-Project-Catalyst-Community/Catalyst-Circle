@@ -2,7 +2,7 @@
 
 *Please refrain from sharing links to Google Docs as sharing permissions will affect the communities ability to review*
 
-## Catalyst Circle Meeting #13
+## Catalyst Circle Meeting #22
 
 [Watch The Recording](https://www.youtube.com/watch?v=zdkakn8KynM)
 
@@ -31,7 +31,7 @@ Mediators:
 
 [ ] Nori
 
-[] JP
+[ ] JP
 
 
 ## Consent Agenda
