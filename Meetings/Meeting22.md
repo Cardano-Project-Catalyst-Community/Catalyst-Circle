@@ -85,6 +85,7 @@ Send TH info to Danny - Reach out to candidates to see who can join and potentia
 Share information regarding the voting process
 Figure out times for the following week to include other candidates at a more convenient time
 Figure out DD estimated schedule
+Notify each other about opportunities to join spaces etc to help continue this conversation in an open forum.
 
 ## Next meeting:
 
