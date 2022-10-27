@@ -47,17 +47,17 @@ Mediators:
         + DripDropz team members have withdrawn themselves from the running as not to seem like they may be gaming the system
         + 
     2. We have decided to run another or two in the next week to help get more people on and encourage candidates to show up at a more convenient local time
-    3. Organise an FAQ for DripDropz to help make their job easier
-        + What information can we provide in a clear and simple way to help explain the voting places
-        + This will be the main focus of the meeting today
-        + Who, What, Where, Why, How
-    4. What is the updated timeline and how can we help spread the message
-        + We need to confirm DripDropz timeline (get an update from the team) so we can share accurate information
-    5. Emurgo Academy call
-        + Here is [the video Quasar mentioned](https://youtube.com/clip/Ugkx62JvJ5Jg3utASI_sGTBFpn2TQKXBHMC9)
-    6. What will we do about the 15 people?
-        + Are we just voting in 5 and allowing people to pick their own team?
-        + Are we taking the top people from voting and passing down the next 10 to fill the supporting roles?
+- Organise an FAQ for DripDropz to help make their job easier
+    + What information can we provide in a clear and simple way to help explain the voting places
+    + This will be the main focus of the meeting today
+    + Who, What, Where, Why, How
+- What is the updated timeline and how can we help spread the message
+    + We need to confirm DripDropz timeline (get an update from the team) so we can share accurate information
+- Emurgo Academy call
+    + Here is [the video Quasar mentioned](https://youtube.com/clip/Ugkx62JvJ5Jg3utASI_sGTBFpn2TQKXBHMC9)
+- What will we do about the 15 people?
+    + Are we just voting in 5 and allowing people to pick their own team?
+    + Are we taking the top people from voting and passing down the next 10 to fill the supporting roles?
 
 
 
