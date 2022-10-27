@@ -53,12 +53,15 @@ Mediators:
     + Who, What, Where, Why, How
 - What is the updated timeline and how can we help spread the message
     + We need to confirm DripDropz timeline (get an update from the team) so we can share accurate information
+- How will we manage the 
 - Emurgo Academy call
     + Here is [the video Quasar mentioned](https://youtube.com/clip/Ugkx62JvJ5Jg3utASI_sGTBFpn2TQKXBHMC9)
 - What will we do about the 15 people?
     + Are we just voting in 5 and allowing people to pick their own team?
     + Are we taking the top people from voting and passing down the next 10 to fill the supporting roles?
-
-
+- Continuing Townhalls whilst IOG are stepping back
+    + Rhys might need to step up, also Cardano Pete, and maybe someone from America
+    + We will try to organise smaller more intimate groups of candidates to come on and have more of a panel discussion to get people in and discuss Catalyst and their roles
+    + Steve will also be doing so with Twitter spaces and he will be trying to organise people who he knows may not be as comfortable being on TH with a larger group of viewers.
 
 
