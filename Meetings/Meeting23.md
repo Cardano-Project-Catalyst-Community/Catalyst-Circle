@@ -41,8 +41,19 @@ Mediators:
 (To make using Markdown easy I have created example templates of markdown formatting for links and lists below, simply copy and paste for use)
 
 - How will we manage the onboarding for new circle CCV4
+  + All of the circle members will need support and help with onboarding
+  + Administrative overhead - https://cardano.ideascale.com/c/idea/420109
+  + No CC Admin for Circle, Requirement for Administrative support is there
+  + Scheduling meeting times
+  + Payment to previous members for onboarding and mentoring - his should be left up to the new CCv4 to decide on (y/n/howmuch)
+  + Tooling and costs for tools
+  + Set up a Roundtable multisig for bounties (remaining rapid funding) 5 members for multisig (current circle)
+  + Handover to a new multisig when the time comes (new CCv4 team)
 - Bounties for Community works
-  + Further Sub Lists
+  + We voted to put all of the Rapid Funding together to go towards any bounties the next iteration of CCv4 may need to assist them with their work.
+- DripDropz election
+  + Test run
+  + Demo video of voting process
 
 [Link Text Template](https://google.com/)
 
